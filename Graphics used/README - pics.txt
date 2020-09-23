@@ -1,0 +1,1 @@
+This folder isn't used by the program and can be deleted, but you shouldn't.  When you make your own buttons you need to look at my ButtonIn and ButtonOut to see how they differ so the ButtonIn displays correctly in your program.  It needs to be 2 pixels wider and 2 pixels taller, and needs extra shading.  Take a look.
